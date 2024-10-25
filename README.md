@@ -30,7 +30,7 @@
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality</summary>
 <br/>
 
 The app must have the following functionalities
